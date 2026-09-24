@@ -9,8 +9,8 @@ Repositori ini dibuat untuk mendokumentasikan hasil pengerjaan Praktikum 1 mata 
 
 ```text
 Lab1Web/
-├── index.html        # Halaman uji coba dan eksplorasi tag dasar HTML
-├── halaman2.html      # Halaman profil gabungan (studi kasus integrasi elemen)
+├── index.html        # halaman pertama
+├── halaman2.html      # Halaman profil gabungan
 ├── README.md         # Dokumentasi pengerjaan praktikum
 └── images/
     └── profil.jpg    # Aset gambar/foto profil
